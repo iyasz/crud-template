@@ -19,6 +19,9 @@
             <div class="col-lg-6">
                 <div class="card shadow">
                     <div class="card-body">
+                        <div class="header mb-3">
+                            <div class="h1">Form Input Data</div>
+                        </div>
                         <form action="" method="post">
                             <div class="mb-3">
                                 <label for="">Nama Lengkap</label>
