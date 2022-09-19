@@ -11,7 +11,7 @@
 <body>
     <style>
         .container {
-            top: 90px;
+            top: 50px;
         }
     </style>
     <div class="container position-relative ">
@@ -39,10 +39,13 @@
                                 <label for="">Asal Sekolah</label>
                                 <input type="text" placeholder="" name="" id="" class="form-control">
                             </div>
-                            <div class="mb-3">
+                            <div class="mb-5">
                                 <label for="">Alamat</label>
                                 <input type="text" placeholder="" name="" id="" class="form-control">
                             </div>
+
+                            <button class="btn btn-primary" type="submit" name="submit">Submit</button>
+                            <button class="btn btn-danger" type="reset">Reset</button>
                         </form>
                     </div>
                 </div>
