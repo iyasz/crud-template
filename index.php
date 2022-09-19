@@ -24,24 +24,24 @@
                         </div>
                         <form action="" method="post">
                             <div class="mb-3">
-                                <label for="">Nama Lengkap</label>
-                                <input type="text" placeholder="" name="" id="" class="form-control">
+                                <label for="nama">Nama Lengkap</label>
+                                <input type="text" placeholder="Masukan Nama Lengkap" name="nama" id="nama" class="form-control">
                             </div>
                             <div class="mb-3">
-                                <label for="">NIS</label>
-                                <input type="text" placeholder="" name="" id="" class="form-control">
+                                <label for="nis">NIS</label>
+                                <input type="text" placeholder="Masukan NIS" name="nis" id="nis" class="form-control">
                             </div>
                             <div class="mb-3">
-                                <label for="">No Telp</label>
-                                <input type="text" placeholder="" name="" id="" class="form-control">
+                                <label for="telepon">No Telp</label>
+                                <input type="text" placeholder="Masukan No Telepon" name="telepon" id="telepon" class="form-control">
                             </div>
                             <div class="mb-3">
-                                <label for="">Asal Sekolah</label>
-                                <input type="text" placeholder="" name="" id="" class="form-control">
+                                <label for="sekolah">Asal Sekolah</label>
+                                <input type="text" placeholder="Masukan Asal Sekolah" name="sekolah" id="sekolah" class="form-control">
                             </div>
                             <div class="mb-5">
-                                <label for="">Alamat</label>
-                                <input type="text" placeholder="" name="" id="" class="form-control">
+                                <label for="alamat">Alamat</label>
+                                <input type="text" placeholder="Masukan Alamat" name="alamat" id="alamat" class="form-control">
                             </div>
 
                             <button class="btn btn-primary" type="submit" name="submit">Submit</button>
