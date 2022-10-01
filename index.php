@@ -64,10 +64,12 @@
                                     <th>No Telp</th>
                                     <th>Asal Sekolah</th>
                                     <th>Alamat</th>
+                                    <th>Aksi</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
+                                    <td></td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
